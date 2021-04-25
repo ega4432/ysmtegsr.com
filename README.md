@@ -1,6 +1,6 @@
 # ysmtegsr.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/31e863e7-855e-4acb-b9bb-bf47f294c65b/deploy-status)](https://app.netlify.com/sites/relaxed-galileo-91144d/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0bd04aef-3e56-45e0-815f-30d843f361b2/deploy-status)](https://app.netlify.com/sites/ysmtegsr/deploys)
 [![deploy](https://github.com/ysmtegsr/ysmtegsr.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/ysmtegsr/ysmtegsr.com/actions/workflows/deploy.yml)
 
 ## Setup
