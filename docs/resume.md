@@ -2,27 +2,6 @@
 title: "職務経歴書"
 date: "2020-04-22"
 excerpt: "ysmtegsr の職務経歴書"
-pdf_options:
-  format: a4
-  margin: 30mm 20mm
-  displayHeaderFooter: true
-  headerTemplate: |-
-    <style>
-      section {
-        margin: 0 auto;
-        font-family: system-ui;
-        font-size: 10px;
-      }
-    </style>
-    <section>
-      <span class="date"></span>
-    </section>
-  footerTemplate: |-
-    <section>
-      <div>
-        <span class="pageNumber"></span> / <span class="totalPages"></span>
-      </div>
-    </section>
 ---
 ## 基本データ
 

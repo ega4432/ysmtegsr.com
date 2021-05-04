@@ -9,7 +9,7 @@
     "build:next": "next build",
     "export": "next export",
     "start": "next start",
-    "pdf": "md-to-pdf docs/resume.md --md-file-encoding 'utf-8'",
+    "pdf": "md-to-pdf docs/resume.md --config-file './docs/config.json'",
     "lint": "npx textlint ./docs/resume.md"
   },
   "dependencies": {
