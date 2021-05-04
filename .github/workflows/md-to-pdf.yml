@@ -1,4 +1,4 @@
-name: Markdown to PDF
+name: markdown to PDF
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Create release note and Upload PDF of latest curriculum-vitae.
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     strategy:
       matrix:
         node-version: [12.x]
