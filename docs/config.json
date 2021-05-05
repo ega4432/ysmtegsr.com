@@ -1,4 +1,5 @@
 {
+  "body_class": ["markdown-body"],
   "pdf_options": {
     "format": "a4",
     "margin": "30mm 20mm",
@@ -7,5 +8,9 @@
     "footerTemplate": "<section><div><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div></section>"
   },
   "md_file_encoding": "utf-8",
-  "stylesheet_encondig": "utf-8"
+  "stylesheet": [
+    "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css",
+    "./docs/style.css"
+  ],
+  "stylesheet_encoding": "utf-8"
 }
