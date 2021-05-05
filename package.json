@@ -39,6 +39,7 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.1.2",
     "rss-parser": "^3.9.0",
+    "sass": "^1.32.12",
     "textlint": "^11.9.0",
     "textlint-rule-preset-smarthr": "^1.2.0",
     "ts-node": "^9.0.0",
