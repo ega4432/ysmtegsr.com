@@ -1,0 +1,9 @@
+.markdown-body {
+  font-size: 12px;
+  font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", "Meiryo", "sans-serif";
+}
+
+.markdown-body h1 {
+  border-bottom: none;
+  text-align: center;
+}
