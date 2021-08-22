@@ -3,7 +3,7 @@ import Link from "next/link";
 import dayjs from "dayjs";
 import relativeTime from "dayjs/plugin/relativeTime";
 
-import { PostItem } from "@src/types";
+import { PostItem, Source } from "@src/types";
 import {
   getHostFromURL,
   getFaviconSrcFromHostname,
@@ -17,8 +17,8 @@ const PostLink: React.FC<{ item: PostItem }> = (props) => {
   const author = getAuthorData();
 
   const hostname = getHostFromURL(link);
-  const source = author.sources.filter((source) => {
-    return source.url.includes(hostname)
+  const source = author.sources.filter((s: Source) => {
+    return s.url.includes(hostname) || hostname.includes(s.title)
   })[0];
 
   return (

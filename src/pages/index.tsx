@@ -25,7 +25,7 @@ const Page: NextPage = () => {
         <ContentWrapper>
           <h1 className="home-hero__title">{config.siteMeta.title}</h1>
           <p className="home-hero__description">
-            こんにちは、ヨッシーです 👋 <br />福岡県在住のソフトウェアエンジニアです。
+            こんにちは、よっしーです 👋 <br />福岡県在住のソフトウェアエンジニアです。
           </p>
           <p>
             このサイトは、「企業/チームのためのブログ・スターター
@@ -44,7 +44,7 @@ const Page: NextPage = () => {
       <section className="home-posts">
         <ContentWrapper>
           <div className="home-section-title-container">
-            <h2 className="home-section-title">Articles</h2>
+            <h2 className="home-section-title">Feeds</h2>
           </div>
 
           <div className="home-posts-container">
