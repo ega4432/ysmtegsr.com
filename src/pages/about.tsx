@@ -15,6 +15,7 @@ type Props = {
 
 const Page: NextPage<Props> = (props) => {
   const {
+    id,
     name,
     bio,
     avatarSrc,
@@ -64,7 +65,7 @@ const Page: NextPage<Props> = (props) => {
               className="author-header__avatar-img"
             />
           </div>
-          <h1 className="author-header__name">{name}</h1>
+          <h1 className="author-header__name">{name}（id: {id}）</h1>
           <p className="author-header__bio">{bio}</p>
           <div className="author-header__links">
             {twitterUsername && (
@@ -119,7 +120,7 @@ const Page: NextPage<Props> = (props) => {
           <h2 className="about__title">プロフィール</h2>
           <div className="about__body">
             <p>
-              福岡県福岡市在住。業務ではバックエンド、フロントエンドの設計から実装を中心に行っています。クラウドは AWS が好きで、最近（ 2021 年 3 月 ）AWS 認定ソリューションアーキテクト - アソシエイト - を取得しました。
+              福岡県福岡市在住。業務ではバックエンド、フロントエンドの設計から実装を中心に行っています。クラウドは AWS を主に扱うことが多いです。
             </p>
             <p>
               領域としては、AWS 環境における設計から構築、Infrastructure as Code や Jamstack といったものに興味があります。今後もそういったお仕事を通して、技術を用いた課題解決をできたらと思っています。

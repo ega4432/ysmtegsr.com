@@ -1,7 +1,7 @@
 export const config = {
   siteMeta: {
     title: "ysmtegsr.com",
-    description: "社会人 3 年目のソフトウェアエンジニア ysmtegsr のアウトプット集約 Web サイト",
+    description: "社会人 3 年目のソフトウェアエンジニア ega4432 のアウトプット集約 Web サイト",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
