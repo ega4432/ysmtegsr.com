@@ -1,4 +1,4 @@
-name: markdown to PDF
+name: Build PDF resume
 
 on:
   push:
