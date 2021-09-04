@@ -1,7 +1,7 @@
 ---
 title: "職務経歴書"
-date: "2020-04-22"
-excerpt: "ysmtegsr の職務経歴書"
+date: "2020-09-04"
+excerpt: "ega4432 の職務経歴書"
 ---
 # 職務経歴書
 ## 基本データ
@@ -10,25 +10,25 @@ excerpt: "ysmtegsr の職務経歴書"
 
 | key  | value |
 | :---:| --- |
-| ハンドルネーム | ysmtegsr |
-| 生年月日 | 1995 年 8 月 2 日 ( 25 歳 ) |
+| id | ega4432 |
+| 生年月日 | 1995 年 8 月 2 日 ( 26 歳 ) |
 | 出身 | 佐賀県唐津市 |
 | 現住所  | 福岡県福岡市在住 |
 | 趣味 | 読書、将棋、テニス、トレーニング全般 |
 
 ### 最終学歴
 
-防衛大学校 ( 2014-04 - 2018-03 )
+防衛大学校 電気情報学群通信工学科 ( 2014-04 - 2018-03 )
 
-- 電気情報学群通信工学科
-  - [電磁波工学講座研究室](http://www.nda.ac.jp/cc/com/emwave.html)
-  - [フーリエ変換の方法を用いたコーティング導体円柱からの過渡散乱電界の近似解析 - CiNii 論文](https://ci.nii.ac.jp/naid/40021402783)
+- [電磁波工学講座研究室](http://www.nda.ac.jp/cc/com/emwave.html)
+- [フーリエ変換の方法を用いたコーティング導体円柱からの過渡散乱電界の近似解析 - CiNii 論文](https://ci.nii.ac.jp/naid/40021402783)
 
 ### 保有資格・免許
 
-- [AWS 認定資格](https://www.youracclaim.com/users/ysmtegsr)
-  - Solutions Architect – Associate ( 2021-03 )
-  - Cloud Practitioner ( 2020-12 )
+- AWS 認定資格 - [View badges](https://www.youracclaim.com/users/ega4432)
+  - AWS Certified Developer – Associate ( 2021-08-27 - 2024-08-27 )
+  - AWS Certified Solutions Architect – Associate ( 2021-03-13 - 2024-03-13 )
+  - AWS Certified Cloud Practitioner ( 2020-12-19 - 2024-08-27 )
 - 無線従事者免許
   - 第一級陸上特殊無線技士 ( 2018-03 )
   - 第三級海上特殊無線技士 ( 2018-03 )
@@ -59,12 +59,12 @@ excerpt: "ysmtegsr の職務経歴書"
 | バックエンド | PHP, Go, Node.js |
 | フロントエンド | Vue.js, TypeScript, Sass |
 | フレームワーク | Laravel, Echo, Nuxt.js |
-| コンテナ | Docker, Amazon Elastic Container Service |
-| クラウド | Amazon Web Services, Google Cloud Platform(Firebase) |
+| コンテナ | Docker, Amazon ECS, Amazon ECR |
+| クラウド | Amazon Web Services, Google Cloud Platform ( Firebase ) |
 | DB | MySQL, MariaDB, PostgreSQL, Redis, Amazon Aurora, Amazon DynamoDB |
-| IaC | Terraform |
+| IaC | Terraform, CloudFormation, ServerlessFramework |
 | CI/CD | GitHub Actions, CircleCI |
-| その他 | Asana, Azure DevOps, GitHub, Mackerel, Slack |
+| その他 | Asana, Azure DevOps, GitHub, Mackerel, Slack, Trello |
 
 ## 職務経歴
 
@@ -103,7 +103,7 @@ excerpt: "ysmtegsr の職務経歴書"
   - Go 言語での開発やサーバーレスアーキテクチャなど初めての経験だったが、さまざまな情報を参考にして迅速にキャッチアップした。
   - アジャイル開発の導入に伴い実装メンバーの一人として参画し、小さいサイクルで高頻度にリリースし動くソフトウェアを提供するということにコミットした。
 
-1. 社内向けパッケージ新規開発 ( 2019-11 - 2019-12 )
+3. 社内向けパッケージ新規開発 ( 2019-11 - 2019-12 )
 
 - プロジェクト概要
   - 社内の開発者向けに SaaS ツールとの API 連携をラップするパッケージの新規開発。
@@ -117,7 +117,7 @@ excerpt: "ysmtegsr の職務経歴書"
 
 ###  某 IT ベンチャー企業 H
 
-- 在籍期間：2020-02 - 現在
+- 在籍期間：2020-02 - 2021-08
 - 雇用形態：正社員
 - 業界：医療
 
@@ -144,7 +144,7 @@ excerpt: "ysmtegsr の職務経歴書"
   - 開発メンバー：3 〜 5 人チームでのスクラム開発
 - 担当業務
   - チームの仕組み作りや開発の効率化、各ミーティングにおけるファシリテーションなどのスクラムマスター業務。
-  - Repository パターンに則った API の設計・実装業務。
+  - Repository パターンを応用したアーキテクチャを使った API の設計・実装業務。
   - JavaScript フレームワーク Nuxt.js を利用した UI の実装。
   - AWS クラウドにおけるインフラアーキテクチャ設計や調査・構築業務。
 - 発揮したバリュー

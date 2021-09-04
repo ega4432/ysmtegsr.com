@@ -25,7 +25,7 @@ const Page: NextPage = () => {
         <ContentWrapper>
           <h1 className="home-hero__title">{config.siteMeta.title}</h1>
           <p className="home-hero__description">
-            こんにちは、よっしーです 👋 <br />福岡県在住のソフトウェアエンジニアです。
+            こんにちは、えが（ id: ega4432 ）です 👋 <br />福岡県在住のソフトウェアエンジニアです。
           </p>
           <p>
             このサイトは、「企業/チームのためのブログ・スターター
